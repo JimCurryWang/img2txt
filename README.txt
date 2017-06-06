@@ -1,7 +1,8 @@
 dist 資料夾下 pyimg2txt
 
 一.
-[Python3.5 +  + Keras]測試安裝環境為 Mac/OSX10 /Python3.5
+[Python3.5 +  + Keras]
+測試安裝環境為 Mac/OSX10 /Python3.5
 
 OCR（Optical Character Recognition）文字識別
 Target : 將圖片做前處理，作為輸入，從中輸出文本 
@@ -9,8 +10,8 @@ Target : 將圖片做前處理，作為輸入，從中輸出文本
 二.
 安裝套件：
 1.
-$ pip install pytesseract ? 
-ps: 不知道要不要裝？？？ anaconda得很怪 改用brew os專用管理器 若為 windows 要裝別的
+$ pip install pytesseract  
+ps: anaconda得很怪 改用brew os專用管理器 若為 windows 要裝別的
 
 2.
 $ pip install pyocr
