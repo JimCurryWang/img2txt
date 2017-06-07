@@ -6,7 +6,7 @@ img2txt.py 基於 pyocr 接口 tesseract, 對圖像運行OCR，識別圖像中�
 ***
 **img2txt.py**
  
-    ```command line>>python img2txt.py 圖片路徑 分析語言```
+    command line>>python img2txt.py 圖片路徑 分析語言
     
 
    將圖片做ocr 文字辨識
@@ -28,9 +28,8 @@ img2txt.py 基於 pyocr 接口 tesseract, 對圖像運行OCR，識別圖像中�
  ***
  **sharpened.py**
 
-    ```
+    
     command line>>python sharpened.py 圖片路徑
-    ```
 
 將圖片做去干擾線灰階處理 並將其儲存 命名為 ‘sharpened_picname’
 
